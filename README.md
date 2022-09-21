@@ -1,7 +1,8 @@
 # Neural-Symbolic Learner for Michalski's train problem
 
-* open and run `mudar_nome_do_arquivo.ipynb` on google colab or localy with jupyter notebook
-* the main dependencies are shown on the first cell to be run. It installs tensorflow, keras and other modules that are used in the notebook.
+* open and run `Neural_Symbolic_Learner.ipynb` on google colab or localy with jupyter notebook
+  * the main dependencies are shown on the first cell to be run. It installs tensorflow, keras and other modules that are used in the notebook.
+  * run all cells to get the result. It may take a while (estimated time: 2 hours).
 
 ## Michalski’s train details
 
